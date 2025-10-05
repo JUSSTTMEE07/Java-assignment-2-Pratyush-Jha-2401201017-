@@ -118,6 +118,22 @@ Educational use; adapt as needed for assignments and learning.
 ## 🔗 Links
 - Repository: `https://github.com/JUSSTTMEE07/Java-assignment-2-Pratyush-Jha-2401201017-`
 
+
+📘 Course Details
+
+**Course Name:** Java Programming
+**Course Code:** ENCS201 / ENCA203 / ENBC205
+**Department:** School of Engineering & Technology (SOET)
+**Faculty:** Dr. Manish Kumar
+**Student Name:** Pratyush Jha
+**Roll No.:** 2401201017
+**Session:** 2025–26 (3rd Semester)
+
+### 📚 Acknowledgment
+
+This project was developed as part of the **Java Programming** course at **K.R. Mangalam University**, under the guidance of **Dr. Manish Kumar**.
+
+
 ---
 
 Made with ❤️ for learning Java.
