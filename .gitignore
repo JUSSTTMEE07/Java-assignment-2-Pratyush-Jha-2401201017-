@@ -1,0 +1,1 @@
+# Java\n*.class\n*.jar\n*.war\n*.ear\n\n# Build directories\n/bin/\n/build/\n/target/\n/out/\n\n# IDE\n.classpath\n.project\n.settings/\n.idea/\n*.iml\n.vscode/\n\n# Logs\n*.log\n\n# OS\n.DS_Store\nThumbs.db\n\n# Others\n*.swp\n
